@@ -1,0 +1,62 @@
+﻿/*
+In NativeScript, the app.css file is where you place CSS rules that
+you would like to apply to your entire application. Check out
+http://docs.nativescript.org/ui/styling for a full list of the CSS
+selectors and properties you can use to style UI components.
+*/
+
+/*
+In many cases you may want to use the NativeScript core theme instead
+of writing your own CSS rules. For a full list of class names in the theme
+refer to http://docs.nativescript.org/ui/theme.
+*/
+@import 'nativescript-theme-core/css/core.light.css';
+
+/*
+primary-color: #519142
+secondary-color: #1c83c6
+danger-color: #e74c3c
+grey-color: #F5F5F5
+male-color: #e67e22
+female-color: #2980b9
+*/
+
+ActionBar {
+  background-color: #519142;
+  color: white;
+}
+
+.button-primary {
+  background-color: #519142;
+  color: white;
+}
+
+.button-secondary {
+  background-color: #1c83c6;
+  color: white;
+}
+
+.button-danger {
+  background-color: #e74c3c;
+  color: white;
+}
+
+.button-male {
+  background-color: #e67e22;
+  color: white;
+}
+
+.button-female {
+  background-color: #2980b9;
+  color: white;
+}
+
+.button-grey {
+  background-color: #F5F5F5;
+  color: black;
+}
+
+.button-small {
+  width: 40;
+  height: 40;
+}

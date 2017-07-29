@@ -1,0 +1,28 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "tsimporter.emitSemicolon": false,
+    "files.autoSave": "onFocusChange",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        ".vscode": true,
+        "hooks": true,
+        "node_modules": true,
+        "platforms": true,
+        ".editorconfig": false,
+        ".gitignore": true,
+        "package-lock.json": true,
+        "package.json": false,
+        "tsconfig.json": false,
+        "**/**.js": true,
+        "**/**.d.ts": true,
+        "app/hooks": true,
+        "app/LICENSE": true,
+        "app/package.json": true,
+        "app/README.md": true,
+        "app/App_Resources": true
+    }
+}

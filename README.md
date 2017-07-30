@@ -22,3 +22,5 @@ Homeless Dataset from CINCH<br />
 http://www.cinch.org.nz/entries?keyword=Homeless<br />
 # Source code and Material URL<br />
 https://github.com/GovHackNZ2017/GovHackNZ2017
+# App Demo<br />
+https://xd.adobe.com/view/38cdeb6f-acfa-4b79-ab85-215b68d27f1c/

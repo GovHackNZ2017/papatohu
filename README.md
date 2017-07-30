@@ -20,6 +20,7 @@ Social hack<br />
 Homeless Dataset from CINCH<br />
 # Dataset URL<br />
 http://www.cinch.org.nz/entries?keyword=Homeless<br />
+https://catalogue.data.govt.nz/dataset/suicide-facts-deaths-and-intentional-self-harm-hospitalisations-2013<br />
 # Source code and Material URL<br />
 https://github.com/GovHackNZ2017/GovHackNZ2017
 # App Demo<br />

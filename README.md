@@ -27,4 +27,4 @@ https://github.com/GovHackNZ2017/GovHackNZ2017
 # App Demo<br />
 https://xd.adobe.com/view/38cdeb6f-acfa-4b79-ab85-215b68d27f1c/
 # Video Demo (3 minutes)
-- http:
+- https://www.youtube.com/watch?v=1dfvF_OK1QE&edit=vd

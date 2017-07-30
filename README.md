@@ -17,10 +17,11 @@ Safety hack<br />
 Social hack<br />
 # Datasets used<br />
 # Dataset Name<br />
-Homeless Dataset from CINCH<br />
+- Homeless Social Housing from CINCH<br />
+- Number and rate of suicide deaths by age group and sex, 1948–2013<br />
 # Dataset URL<br />
-http://www.cinch.org.nz/entries?keyword=Homeless<br />
-https://catalogue.data.govt.nz/dataset/suicide-facts-deaths-and-intentional-self-harm-hospitalisations-2013<br />
+- http://www.cinch.org.nz/entries?keyword=Homeless<br />
+- https://catalogue.data.govt.nz/dataset/suicide-facts-deaths-and-intentional-self-harm-hospitalisations-2013<br />
 # Source code and Material URL<br />
 https://github.com/GovHackNZ2017/GovHackNZ2017
 # App Demo<br />
